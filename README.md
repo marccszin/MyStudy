@@ -1,5 +1,7 @@
 # 📚 StudyHub
 
+Link online: https://marccszin.github.io/MyStudy/
+
 Uma central pessoal de estudos e produtividade: organize matérias, notas, tarefas, links e vídeos em um só lugar — direto no navegador, sem servidor, sem cadastro.
 
 > Projeto pensado tanto como peça de portfólio quanto como ferramenta real de uso diário.
